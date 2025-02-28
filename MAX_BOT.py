@@ -3,7 +3,6 @@ from discord.ext import commands
 from discord import Interaction, app_commands
 import yt_dlp
 import asyncio
-from collections import deque
 
 
 intents = discord.Intents.default()
