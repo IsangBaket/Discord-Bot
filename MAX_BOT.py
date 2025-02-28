@@ -108,5 +108,5 @@ async def play(interaction: discord.Interaction, song_query: str):
 
 
 
-max_bot.run('MTM0NDkwMDI2ODE5MzYxMTgwNw.GG1lPg.PLTyx4Ck9bKqNbUB0t00FtXCY6bXtDMVF-3B4A')
+max_bot.run('SECRET PU HIHI')
 
